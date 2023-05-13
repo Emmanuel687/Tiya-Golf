@@ -12,10 +12,7 @@ To view the website, simply open the index.html file in a web browser.
 The website was built using the following resources:
 HTML
 CSS
-PHP
 Javascript
-Bootstrap
 Font Awesome
-Contact
 If you have any questions about the website, please feel free to contact me at [koechemmanuel2002@gmail.com]
 
